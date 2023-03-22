@@ -1,0 +1,4 @@
+0.0
+12412.0
+Error in line 3: Error : Cannot divide by zero.
+Error : Invalid code.

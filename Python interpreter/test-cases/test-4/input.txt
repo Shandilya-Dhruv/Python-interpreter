@@ -1,0 +1,4 @@
+amx = 12
+bmz = 999/(amx/32)
+_xyz = 35/amx
+12cs = amx/bmz
