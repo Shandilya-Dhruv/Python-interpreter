@@ -1,1 +1,0 @@
-self.theta = np.linalg.solve(np.dot(X.T, X), np.dot(X.T, y_new))

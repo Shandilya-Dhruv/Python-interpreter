@@ -1,1 +1,0 @@
-return new_centroids
